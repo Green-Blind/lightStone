@@ -1,0 +1,11 @@
+<theme>
+    <name>lightStone</name>
+    <skinType>1</skinType>
+    <description>Option beige</description>
+    <previewUri>lightStonePreview.jpg</previewUri>
+	<author>AlpakaGB</author>
+    <version>2.70.0</version>
+    <dofusVersion>2.70</dofusVersion>
+    <creationDate>03/02/2024</creationDate>
+    <modificationDate>03/02/2024</modificationDate>
+</theme>
