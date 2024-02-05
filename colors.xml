@@ -22,7 +22,7 @@
     <entry key="ui.bg.window">0xffffff</entry>
     <entry key="ui.wnd.border">0xffffff</entry>
 
-    <entry key="chat.bgColor">0xc4bd9e</entry>
+    <entry key="chat.bgColor">0x4c3d19</entry>
 
     <entry key="gamemenu.background">0xffffff</entry>
     <entry key="gamemenu.background.alpha">0</entry>
@@ -47,12 +47,12 @@
     <entry key="combobox.over">0x253D3D33</entry>
     <entry key="combobox.selected">0x252c2d25</entry>
 
-    <entry key="contextmenu.title">0xDEDABD</entry>
+    <entry key="contextmenu.title">0x46351d</entry>
     <entry key="contextmenu.title.alpha">0.9</entry>
     <entry key="contextmenu.over">0x717168</entry>
     <entry key="contextmenu.over.alpha">0.5</entry>
     <entry key="contextmenu.border">0x514a3c</entry>
-    <entry key="contextmenu.bg">0xDEDABD</entry>
+    <entry key="contextmenu.bg">0x46351d</entry>
     <entry key="contextmenu.bg.alpha">0.9</entry>
     <entry key="contextmenu.shadow">0x222222</entry>
     <entry key="contextmenu.separator">0x404040</entry>
@@ -60,9 +60,9 @@
 
     <entry key="timeline.border_current_fighter">0xff6100</entry>
 
-    <entry key="tooltip.bg">0xDEDABD</entry>
+    <entry key="tooltip.bg">0x46351d</entry>
     <entry key="tooltip.bg.alpha">0.8</entry>
-    <entry key="tooltip.border">0xDEDABD</entry>
+    <entry key="tooltip.border">0x46351d</entry>
     <entry key="tooltip.border.activePin">0x505050</entry>
     <entry key="tooltip.separator">0xFF9E9E9E</entry>
 
