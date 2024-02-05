@@ -25,7 +25,7 @@
     <entry key="chat.bgColor">0x4c3d19</entry>
 
     <entry key="gamemenu.background">0xffffff</entry>
-    <entry key="gamemenu.background.alpha">0</entry>
+    <entry key="gamemenu.background.alpha">1</entry>
 
     <entry key="grid.title">0x2b2b27</entry>
     <entry key="grid.bg">0x10ffffff</entry>
@@ -48,12 +48,12 @@
     <entry key="combobox.selected">0x252c2d25</entry>
 
     <entry key="contextmenu.title">0x46351d</entry>
-    <entry key="contextmenu.title.alpha">0.9</entry>
+    <entry key="contextmenu.title.alpha">0.5</entry>
     <entry key="contextmenu.over">0x717168</entry>
-    <entry key="contextmenu.over.alpha">0.5</entry>
+    <entry key="contextmenu.over.alpha">0.9</entry>
     <entry key="contextmenu.border">0x514a3c</entry>
     <entry key="contextmenu.bg">0x46351d</entry>
-    <entry key="contextmenu.bg.alpha">0.9</entry>
+    <entry key="contextmenu.bg.alpha">0.5</entry>
     <entry key="contextmenu.shadow">0x222222</entry>
     <entry key="contextmenu.separator">0x404040</entry>
     <entry key="contextmenu.shortcut">0x881100</entry>
