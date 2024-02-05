@@ -16,17 +16,16 @@
 	<!--                            Couleurs                                -->
 	<!--======================================================================-->
 	
-	<entry key="ui.modalbg">0x000000</entry>
-	<entry key="ui.shadow">0x333333</entry>
-	<entry key="ui.shadow.dark">0x000000</entry>
+	<entry key="ui.modalbg">0xC2B280</entry>
+	<entry key="ui.shadow">0xffe19d</entry>
+	<entry key="ui.shadow.dark">0xC2B280</entry>
 	<entry key="ui.light">0xffffff</entry>
-	<entry key="ui.bg.window">0x24251f</entry>
-	<entry key="ui.wnd.border">0x6F6D61</entry>
+	<entry key="ui.bg.window">0xffe19d</entry>
+	<entry key="ui.wnd.border">0xffe19d</entry>
 	
-	<!-- <entry key="chat.bgColor">0x242424</entry> -->
 	<entry key="chat.bgColor">0xC2B28</entry>
 	
-	<entry key="gamemenu.background">0x000000</entry>
+	<entry key="gamemenu.background">0xC2B280</entry>
 	<entry key="gamemenu.background.alpha">0.8</entry>
 	
 	<entry key="grid.title">0x2B2B27</entry>
@@ -54,7 +53,7 @@
 	<entry key="contextmenu.over">0xC19A6B</entry>
 	<entry key="contextmenu.over.alpha">0.5</entry>
 	<entry key="contextmenu.border">0x454035</entry>
-	<entry key="contextmenu.bg">0x000000</entry>
+	<entry key="contextmenu.bg">0xC2B280</entry>
 	<entry key="contextmenu.bg.alpha">0.9</entry>
 	<entry key="contextmenu.shadow">0x222222</entry>
 	<entry key="contextmenu.separator">0x404040</entry>
@@ -62,22 +61,22 @@
 	
 	<entry key="timeline.border_current_fighter">0xff6100</entry>	
 	
-	<entry key="tooltip.bg">0x000000</entry>
+	<entry key="tooltip.bg">0xC2B280</entry>
 	<entry key="tooltip.bg.alpha">0.85</entry>
-	<entry key="tooltip.border">0x000000</entry>
+	<entry key="tooltip.border">0xC2B280</entry>
 	<entry key="tooltip.border.activePin">0x505050</entry>
 	<entry key="tooltip.separator">0xFF9E9E9E</entry>
 
 
 	<entry key="scrollbar.bg">0x444455</entry>
-	<entry key="scrollbar.bar">0xBFE700</entry>
+	<entry key="scrollbar.bar">#ffd40a</entry>
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xdeff00</entry>
+	<entry key="shortcut">#fff700</entry>
 	<entry key="text.help">0x6d6d6d</entry>
 	
-	<entry key="hyperlink.link">0xdeff00</entry>
+	<entry key="hyperlink.link">#fff700</entry>
 	<entry key="hyperlink.hover">0xf2fabd</entry>
 	<entry key="hyperlink.warning">0xec0101</entry>
 	
@@ -175,9 +174,9 @@
 	<entry key="challenge.achievement">0xff6c00</entry>
 
 
-	<!--entry key="tacticmode.floor01">0xbdbfbf</entry>
-	<entry key="tacticmode.floor02">0xb7b9b9</entry>
-	<entry key="tacticmode.block01">0xf6f6f6</entry>
-	<entry key="tacticmode.block02">0x7c7c7c</entry>	
-	<entry key="tacticmode.block03">0x9c9c9c</entry-->
+    <entry key="tacticmode.floor01">0x81784E</entry>
+    <entry key="tacticmode.floor02">0x7B6D3A</entry>
+    <entry key="tacticmode.block01">0xB4A353</entry>
+    <entry key="tacticmode.block02">0x9A8A3E</entry>	
+    <entry key="tacticmode.block03">0x9F9257</entry>
 </LangFile>
